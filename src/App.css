@@ -1,0 +1,9 @@
+.navbar {
+  width: 1340px;
+  background-color: #ca4e79;
+  color: #ffc18e;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
